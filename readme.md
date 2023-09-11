@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jo-cloud85/ip-address-tracker.git](https://github.com/Jo-cloud85/ip-address-tracker.git)
-- Live Site URL: [https://Jo-cloud85.github.io/ip-address-tracker](https://Jo-cloud85.github.io/ip-address-tracker)
+- Solution URL: https://github.com/Kevin-Mwole/ip-address-tracker
+- Live Site URL: 
 
 
 ## My process
